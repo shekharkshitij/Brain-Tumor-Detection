@@ -110,5 +110,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The dataset used in this project is from the "Brain Tumor MRI Dataset" available on Kaggle.
 
 ---
-
-Feel free to copy this README and adjust any specific details according to your project's needs!
